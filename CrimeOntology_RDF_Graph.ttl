@@ -1,4 +1,4 @@
-@prefix Crime: <http://www.krrproject.com/CrimeOntology/> .
+@prefix Crimetttttttttttttttttt: <http://www.krrproject.com/CrimeOntology/> .
 @prefix ns1: <http://dbpedia.org/ontology/> .
 @prefix ns2: <http://dbpedia.org/resource/> .
 @prefix ns3: <http://xmlns.com/foaf/0.1/> .
